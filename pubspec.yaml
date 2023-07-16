@@ -1,0 +1,64 @@
+name: udrive
+description: Udrive drive every where
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  connectivity_plus: ^4.0.1
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  firebase_database: ^10.2.3
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.2
+  geolocator: ^9.0.2
+  google_maps_flutter: ^2.3.1
+  http: ^1.1.0
+  iconly: ^1.0.1
+  permission_handler: ^10.4.2
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Brand-Bold
+      fonts:
+        - asset: assets/fonts/bolt-semibold.ttf
+    - family: Brand-Regular
+      fonts:
+        - asset: assets/fonts/bolt-regular.ttf
+
+    - family: Roboto Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+
+    - family: Roboto Medium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+
+    - family: DMSans Regular
+      fonts:
+        - asset: assets/fonts/DMSans-Regular.ttf
+
+    - family: DMSans Bold
+      fonts:
+        - asset: assets/fonts/DMSans-Bold.ttf
+
+    - family: DMSans Medium
+      fonts:
+        - asset: assets/fonts/DMSans-Medium.ttf

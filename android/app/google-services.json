@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28903637497",
+    "firebase_url": "https://udrive-7d8c3-default-rtdb.firebaseio.com",
+    "project_id": "udrive-7d8c3",
+    "storage_bucket": "udrive-7d8c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28903637497:android:a1d58b474cb39323c47d28",
+        "android_client_info": {
+          "package_name": "com.udrive.udrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28903637497-foslm1ejgi9r60dtujkkgiva8e8t3onn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComvlpCAz6RiGh4CGyak-bw9H0tf1UQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28903637497-foslm1ejgi9r60dtujkkgiva8e8t3onn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

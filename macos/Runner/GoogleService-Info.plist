@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28903637497-167i87pljf028kg2fme8ng4dum4c6c64.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28903637497-167i87pljf028kg2fme8ng4dum4c6c64</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCx2p4PAm0J7-vbmXmBUqKkUouOvHJSZDg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28903637497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.udrive.udrive.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>udrive-7d8c3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>udrive-7d8c3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28903637497:ios:f1542de836b88241c47d28</string>
+	<key>DATABASE_URL</key>
+	<string>https://udrive-7d8c3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
